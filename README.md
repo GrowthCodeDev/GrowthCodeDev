@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Growth Code
 
-<!--
-**GrowthCodeDev/GrowthCodeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Développeur freelance**  
+Je transforme des idées en **projets digitaux performants** : bots, automatisations, web apps et solutions sur mesure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Ce que je fais
+- 🤖 Bots Discord (automatisation, scraping, abonnements)
+- 🌐 Applications web (Node.js, React, Next.js)
+- ⚙️ Automatisation & scripts (API, scraping, workflows)
+- 📊 Projets orientés performance & monétisation
+
+---
+
+## 🛠️ Technologies
+- **Langages :** JavaScript, Node.js
+- **Frameworks :** Discord.js, React, Next.js
+- **Bases de données :** SQLite, MySQL
+- **Outils :** Git, GitHub, API REST, Puppeteer, Selenium
+
+---
+
+## 📌 Projets
+🔹 Bots Discord avancés  
+🔹 Automatisation de plateformes (scraping & alertes)  
+🔹 Outils business & SaaS en cours de développement  
+
+*(Plus de projets arrivent très bientôt 👀)*
+
+---
+
+## 📫 Me contacter
+- 💻 GitHub : https://github.com/GrowthCodeDev
+- 💬 Discord : **Growth Code**
+
+---
+
+⭐ N’hésite pas à explorer mes repos et à me contacter pour un projet.
